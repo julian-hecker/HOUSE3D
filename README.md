@@ -4,9 +4,9 @@ Tutorial and files for operating HOUSE3D printer
 # Build your own 
 If you are interested in building this design, please download the CAD files and the technical report
 Find more information here : 
-https://dvic.devinci.fr/projects/HOUSE3D
-https://dvic.devinci.fr/bioextruder
-https://dvic.devinci.fr/projects/materials-3D-printing
+https://ift.devinci.fr/projects/HOUSE3D
+https://ift.devinci.fr/bioextruder
+https://ift.devinci.fr/projects/materials-3D-printing
 
 # Safety rules
 For SAFETY reasons, always keep an eye on the printer and do not use it alone (min 2 operators).
